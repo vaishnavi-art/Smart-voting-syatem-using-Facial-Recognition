@@ -1,1 +1,1 @@
-# Smart-voting-syatem-using-Facial-Recognition
+# Smart-voting-system-using-Facial-Recognition
